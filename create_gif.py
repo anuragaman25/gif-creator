@@ -23,6 +23,5 @@ def create_gif(image_files, output_name='output.gif', duration=500, loop=0):
     iio.imwrite(output_name, images, duration=duration, loop=loop)  # Create GIF
     print(f"GIF saved as {output_name}")
 
-# Example usage
 filenames = ['image1.jpg', 'image2.jpg', 'image3.jpg', 'image4.jpg']  # Update with your images
 create_gif(filenames, 'my_animation.gif', duration=500, loop=0)
