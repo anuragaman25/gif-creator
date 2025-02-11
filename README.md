@@ -1,6 +1,6 @@
 # 🎞️ GIF Creator using Python
 
-![GIF Preview](https://media.giphy.com/media/l0HlFVPvQF5N6nGqM/giphy.gif)
+![GIF Preview](https://i.gifer.com/origin/fb/fb9a5052ce6579df47aad8ded5f34b7b.gif)
 
 ## 🚀 Project Overview
 
